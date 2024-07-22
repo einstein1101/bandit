@@ -1,1 +1,1 @@
-
+print("test for print text")
